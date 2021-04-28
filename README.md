@@ -25,7 +25,7 @@ The module for translate text of admin and can override all admin theme files.
 
 ## Modify admin files
 
-1. Go to app/design/adminhtml/Shah/default and override your filed
+1. Go to app/design/adminhtml/Shah/default and override your files
 
 ## Translate Texts for admin
 
