@@ -29,4 +29,4 @@ The module for translate text of admin and can override all admin theme files.
 
 ## Translate Texts for admin
 
-1. Go to app/code/Mital/BackendTheme/i18n. Add your language file and add your text in csv file
+1. Go to app/design/adminhtml/Shah/default/i18n. Add your language file and add your text in csv file
